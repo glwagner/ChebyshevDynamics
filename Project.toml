@@ -1,0 +1,10 @@
+name = "ChebyshevDynamics"
+uuid = "18797a3a-e116-11e8-3941-71a1eda491c2"
+authors = ["Gregory LeClaire Wagner <wagner.greg@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
