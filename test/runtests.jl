@@ -2,6 +2,15 @@ using
   ChebyshevDynamics,
   Test
 
-firsttest() = 1 == 1
+include("test_bvp.jl")
 
-@test firsttest()
+@testset "Utilities" begin 
+  @test testcheb()
+  @test testuni()
+  @test testcoeff()
+  @test testvalue()
+end
+
+@testset "Dynamics" begin 
+  @test testbvp()
+end
