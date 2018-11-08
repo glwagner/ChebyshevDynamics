@@ -12,4 +12,4 @@ Our algorithm follows the recommendations of
 
 # Authors
 
-Andre Souze (@sandreouza) and Gregory L Wagner (@glwagner).
+[Andre Souza](https://math.gatech.edu/people/andre-souza) and [Gregory L Wagner](https://glwagner.github.io).
