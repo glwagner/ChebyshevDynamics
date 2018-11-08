@@ -8,7 +8,7 @@ in domains that are vertically bounded and horizontally periodic
 that utilizes a hybrid Fourier-Chebyshev basis.
 
 Our algorithm follows the recommendations of 
-["Spectral integration of linear boundary value problems"](https://arxiv.org/abs/1205.2717).
+"[Spectral integration of linear boundary value problems](https://arxiv.org/abs/1205.2717)" by Divakar Viswanath.
 
 # Authors
 
